@@ -1,4 +1,5 @@
 [
+  "hubot-reaction",
   "hubot-standup-alarm",
   "hubot-fliptable",
   "hubot-diagnostics",
